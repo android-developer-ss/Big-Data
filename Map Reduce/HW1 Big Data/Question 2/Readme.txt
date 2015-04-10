@@ -1,0 +1,1 @@
+hadoop jar CountOfUsers.jar CountOfUsers input output  

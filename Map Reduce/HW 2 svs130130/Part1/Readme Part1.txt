@@ -1,0 +1,1 @@
+hadoop jar part1.jar Part1 ratings movies output

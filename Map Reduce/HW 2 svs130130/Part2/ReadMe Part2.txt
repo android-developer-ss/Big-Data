@@ -1,0 +1,1 @@
+hadoop jar part2.jar Part2 rating output 3233
